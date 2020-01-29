@@ -10,5 +10,6 @@ Hello,
     This web application's frontend is made using Angular and the same can be found in shoppingApp repository
     The backend for the application can be found in eCart folder of this repository.
     All the images used in this project are from Unsplash.
+    In case of any queries, feel free to contact me on my email-id.
     
-Thank You !
+Thank You :)
