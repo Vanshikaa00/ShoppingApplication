@@ -1,5 +1,5 @@
 # Shopping Web Application
-This project is a Shopping Web Application made using Angular and Spring Boot
+This project is a Shopping Web Application made using Angular8.0 and Spring Boot technology.
 
 ![screencapture-localhost-4200-home-2019-10-25-19_17_16](https://user-images.githubusercontent.com/53425575/67576840-fc181780-f75c-11e9-9c9a-3616385e26a5.png)
 
