@@ -8,6 +8,7 @@ This project is a Shopping Web Application made using Angular8.0 and Spring Boot
 Hello,
 
     This web application's frontend is made using Angular and the same can be found in shoppingApp repository
-    The backend for the application can be found in eCart folder of this repository.All the images used in this project are from Unsplash.
+    The backend for the application can be found in eCart folder of this repository.
+    All the images used in this project are from Unsplash.
     
 Thank You !
